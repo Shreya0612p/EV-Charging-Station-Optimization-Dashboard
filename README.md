@@ -20,7 +20,7 @@ Power Query – For data cleaning and transformation
 
 DAX (Data Analysis Expressions) – For calculated KPIs like EV-to-Station Ratio
 
-SQL (MySQL / SQLite / PostgreSQL) – For querying and preprocessing raw data before importing
+SQL (MySQL) – For querying and preprocessing raw data before importing
 
 File Formats – .pbix (Power BI file), .png (Dashboard screenshot), .csv (datasets)
 
