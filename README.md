@@ -22,6 +22,8 @@ DAX (Data Analysis Expressions) – For calculated KPIs like EV-to-Station Ratio
 
 SQL (MySQL) – For querying and preprocessing raw data before importing
 
+Python (Pandas, NumPy) – For data cleaning, handling missing values, and dataset merging
+
 File Formats – .pbix (Power BI file), .png (Dashboard screenshot), .csv (datasets)
 
 Data Source
