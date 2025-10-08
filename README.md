@@ -59,8 +59,6 @@ Which cities have the most charging stations?
 
 Which cities are underserved (high EV-to-station ratio)?
 
-What percentage of cities lack charging stations? (In this dataset: 0%)
-
 How many new stations are required to balance demand?
 
 Walkthrough of Key Visuals
