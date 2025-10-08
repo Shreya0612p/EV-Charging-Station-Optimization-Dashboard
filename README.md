@@ -100,3 +100,4 @@ Business Impact
 Infrastructure Planning – Build more stations in underserved, high-EV cities
 Resource Allocation – Prioritize Tier-2 and Tier-3 cities with rising EV adoption
 EV Adoption – Reduce range anxiety by improving accessibility
+<img width="1348" height="722" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/e250b7fa-3336-4870-b27a-4728395cd4e8" />
